@@ -66,5 +66,5 @@ This project implements a **Decision Tree Classifier** using **Scikit-Learn** to
 - Implement **Random Forest** for better generalization.
 
   *OUTPUT*:
-
+![Image](https://github.com/user-attachments/assets/aaf001c1-1291-44fd-89d6-1131cc26a7a1)
   
